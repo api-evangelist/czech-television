@@ -39,7 +39,6 @@ apis:
   - name: Czech Television
     description: "TV programme of Czech TV"
     humanURL: http://www.ceskatelevize.cz/xml/tv-program/
-    baseURL: http://www.ceskatelevize.cz/xml/tv-program/
     tags:
       - Video
     properties:
