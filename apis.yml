@@ -27,7 +27,7 @@ description: "TV programme of Czech TV"
 url: http://www.ceskatelevize.cz/xml/tv-program/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Video"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: http://www.ceskatelevize.cz/xml/tv-program/
 common:
+  - url: https://ct24.ceskatelevize.cz/rss
+    type: BlogRSS
   - type: VulnerabilityDisclosure
     url: security/czech-television-vulnerability-disclosure.yml
   - type: DomainSecurity
