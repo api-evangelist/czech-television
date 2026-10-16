@@ -1,0 +1,14 @@
+{
+  "repo": "czech-television",
+  "feeds": [
+    {
+      "source": "https://ct24.ceskatelevize.cz/rss",
+      "feed_url": "https://ct24.ceskatelevize.cz/rss",
+      "title": "",
+      "saved": 30,
+      "method": "feed"
+    }
+  ],
+  "post_count": 30,
+  "fetched": "2026-10-10T13:15:00Z"
+}
